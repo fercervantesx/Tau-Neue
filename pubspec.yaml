@@ -1,8 +1,8 @@
 name: tau_neue
 description: High-fidelity Flutter design system with graphic realism aesthetics
 version: 0.1.0
-homepage: https://github.com/YOUR_USERNAME/tau_neue
-repository: https://github.com/YOUR_USERNAME/tau_neue
+homepage: https://github.com/fercervantesx/tau_neue
+repository: https://github.com/fercervantesx/tau_neue
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
